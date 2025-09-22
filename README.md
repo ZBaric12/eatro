@@ -52,13 +52,3 @@ Projekt je izrađen kao završni rad iz kolegija **Osnove objektno orijentiranog
 3.Pokrenuti klasu:
 hr.unizd.eatro.Main
 
-## 👩‍🎓 Autor
-
-Zorica Barić
-Sveučilište u Zadru, smjer Informacijske tehnologije
-Kolegij: Osnove objektno orijentiranog programiranja
-
-
-
-   ```bash
-   git clone https://github.com/ZBaric12/eatro.git
